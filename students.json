@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul",
+    "age": 20,
+    "class": "B.Tech",
+    "marks": 85
+  },
+  {
+    "id": 2,
+    "name": "Aman",
+    "age": 21,
+    "class": "B.Tech",
+    "marks": 78
+  },
+  {
+    "id": 3,
+    "name": "Priya",
+    "age": 20,
+    "class": "BCA",
+    "marks": 92
+  },
+  {
+    "id": 4,
+    "name": "Neha",
+    "age": 19,
+    "class": "BCA",
+    "marks": 88
+  },
+  {
+    "id": 5,
+    "name": "Rohit",
+    "age": 22,
+    "class": "B.Tech",
+    "marks": 75
+  },
+  {
+    "id": 6,
+    "name": "Anjali",
+    "age": 20,
+    "class": "B.Sc",
+    "marks": 90
+  },
+  {
+    "id": 7,
+    "name": "Vikas",
+    "age": 21,
+    "class": "BCA",
+    "marks": 67
+  },
+  {
+    "id": 8,
+    "name": "Pooja",
+    "age": 19,
+    "class": "B.Sc",
+    "marks": 82
+  },
+  {
+    "id": 9,
+    "name": "Karan",
+    "age": 22,
+    "class": "B.Tech",
+    "marks": 95
+  },
+  {
+    "id": 10,
+    "name": "Simran",
+    "age": 20,
+    "class": "BCA",
+    "marks": 73
+  }
+]
